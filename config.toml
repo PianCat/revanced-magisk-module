@@ -1,0 +1,13 @@
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+
+[Twitch]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+excluded-patches = "'Hide recommended users'"
+
