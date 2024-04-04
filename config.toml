@@ -5,6 +5,7 @@ version = "16.9.1"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+arch = "arm64-v8a"
 included-patches = "'Dynamic color' 'Hide ads' 'Unlock downloads'"
 exclusive-patches = true
 
