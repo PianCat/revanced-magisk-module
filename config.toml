@@ -5,6 +5,7 @@ version = "16.9.1"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+version = "10.34.0"
 included-patches = "'Dynamic color' 'Hide ads' 'Unlock downloads'"
 exclusive-patches = true
 
