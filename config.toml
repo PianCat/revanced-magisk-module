@@ -1,7 +1,7 @@
-[Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-arch = "arm64-v8a"
-version = "16.9.1"
+# [Twitch]
+# apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+# arch = "arm64-v8a"
+# version = "16.9.1"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
