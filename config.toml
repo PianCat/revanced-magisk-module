@@ -1,8 +1,10 @@
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 arch = "arm64-v8a"
+version = "16.9.1"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-arch = "universal"
-excluded-patches = "'Hide recommended users'"
+included-patches = "'Dynamic color' 'Hide ads' 'Unlock downloads'"
+exclusive-patches = true
+
